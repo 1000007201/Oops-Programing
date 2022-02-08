@@ -2,5 +2,5 @@
 using InventoryManagement;
 
 InventoryManage inventoryManage = new InventoryManage();
-inventoryManage.InventoryRead(@"E:\Assignment1\Oops-Programing\InventoryManagement\Input.json");
+inventoryManage.InventoryRead(@"E:\Bridgelabz\Oops-Programing\InventoryManagement\Input.json");
 
