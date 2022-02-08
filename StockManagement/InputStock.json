@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "TATA",
+    "Price": 50,
+    "Quantity": 500
+  },
+  {
+    "Name": "Dabur",
+    "Price": 70,
+    "Quantity": 900
+  },
+  {
+    "Name": "HDFCBANK",
+    "Price": 100,
+    "Quantity": 1000
+  },
+  {
+    "Name": "Zomato",
+    "Price": 400,
+    "Quantity": 300
+  },
+  {
+    "Name": "Wipro",
+    "Price": 60,
+    "Quantity": 600
+  }
+]
